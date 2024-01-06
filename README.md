@@ -1,0 +1,1 @@
+Ejercicio sobre clases abstractas
